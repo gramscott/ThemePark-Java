@@ -1,5 +1,3 @@
-# ThemePark-Java
-
 # Theme Park - Homework Revising Abstract Classes, Interfaces and Polymorphism.
 
 ### Learning Objectives
